@@ -48,35 +48,37 @@ We mined the top contributions of the most popular Swift repositories on Github.
 
 The interview script can be found [here](interview-script.txt).
 
+## Gathering StackOverflow data
+
 ## List of LDA Topics (with words)
 
-Topic | Share (%) | Questions | Most Relevant | LDA Words
+Topic | Share | Questions | Most Relevant | LDA Words
 ------|-----------|-----------|---------------|----------
-Error/General | 7.5 | 36.7% | 13.5% | code work swift problem fine function issu wrong call work_fine
-UI/Navigation | 5.0 | 15.5% | 44.7% | view control view_control segu bar viewcontrol navig storyboard tab back
-Error/Debugging | 4.5 | 16.5% | 32.9% | error swift code type line compil crash messag argument issu
-Q|A | 4.5 | 22.0% | 14.8% | swift question find answer solut make document appl read understand
-Data Storage | 4.4 | 14.6% | 41.3% | arrai data object dictionari save core core_data swift store creat
-OO Programming | 4.3 | 15.3% | 34.7% | class method call swift protocol type subclass implement creat deleg
-Data Types | 4.1 | 13.4% | 38.2% | string swift function type number convert return int paramet charact
-Objective-C Interop.| 3.8 | 11.8% | 41.0% | swift c objective objective_c framework project import header object_c object
-UI/TableView | 3.7 | 12.0% | 43.4% | cell tabl tableview view row tabl_view uitableview custom select section
-IDE/Xcode | 3.6 | 13.5% | 30.8% | xcode file project swift beta build xcode_beta error creat test
-iOS Testing | 3.5 | 13.2% | 30.5% | app io devic iphon simul run applic crash io_app work
-UI/Positioning | 3.5 | 10.6% | 43.9% | view size height constraint scroll set screen width layout uiview
-UI/Actions | 3.4 | 12.8% | 31.1% | button click press keyboard tap action user swift uibutton custom
-Cloud/Social Media | 2.9 | 9.4% | 42.0% | user pars notif app login facebook queri log messag post
-Image Handling | 2.9 | 10.1% | 36.6% | imag color background chang photo set camera uiimag pictur uiimageview
-Networking | 2.8 | 8.8% | 44.3% | json data request server swift api respons url alamofir send
-Game Development | 2.8 | 7.2% | 55.9% | game scene node sprite spritekit screen player move score make
-Variables Def/Use | 2.5 | 9.6% | 29.9% | variabl properti swift access set declar struct refer assign object
-UI/Animations | 2.4 | 8.1% | 37.0% | anim move draw swipe gestur touch left screen uiview rotat
-Noise/General Words | 2.2 | 9.6% | 23.0% | search swift list io creat select user app tutori appreci
-Multithread/Sched. Func | 2.2 | 8.7% | 28.8% | call function time updat load complet data block run thread
-Optionals/Nil | 2.2 | 8.5% | 29.1% | option nil print return statement unwrap error check found unwrap_option
-UI/Text | 2.0 | 8.0% | 28.0% | text label field crash line uilabel font text_field chang set
-Media/Time Comp. | 2.0 | 6.0% | 48.7% | plai date video time sound timer audio record swift dai
-Location/Web Comp. | 1.7 | 5.8% | 42.0% | locat map user annot page googl url webview html uiwebview
+Error/General | 7.5% | 36.7% | 13.5% | code work swift problem fine function issu wrong call work_fine
+UI/Navigation | 5.0% | 15.5% | 44.7% | view control view_control segu bar viewcontrol navig storyboard tab back
+Error/Debugging | 4.5% | 16.5% | 32.9% | error swift code type line compil crash messag argument issu
+Q&A | 4.5% | 22.0% | 14.8% | swift question find answer solut make document appl read understand
+Data Storage | 4.4% | 14.6% | 41.3% | arrai data object dictionari save core core_data swift store creat
+OO Programming | 4.3% | 15.3% | 34.7% | class method call swift protocol type subclass implement creat deleg
+Data Types | 4.1% | 13.4% | 38.2% | string swift function type number convert return int paramet charact
+Objective-C Interop.| 3.8% | 11.8% | 41.0% | swift c objective objective_c framework project import header object_c object
+UI/TableView | 3.7% | 12.0% | 43.4% | cell tabl tableview view row tabl_view uitableview custom select section
+IDE/Xcode | 3.6% | 13.5% | 30.8% | xcode file project swift beta build xcode_beta error creat test
+iOS Testing | 3.5% | 13.2% | 30.5% | app io devic iphon simul run applic crash io_app work
+UI/Positioning | 3.5% | 10.6% | 43.9% | view size height constraint scroll set screen width layout uiview
+UI/Actions | 3.4% | 12.8% | 31.1% | button click press keyboard tap action user swift uibutton custom
+Cloud/Social Media | 2.9% | 9.4% | 42.0% | user pars notif app login facebook queri log messag post
+Image Handling | 2.9% | 10.1% | 36.6% | imag color background chang photo set camera uiimag pictur uiimageview
+Networking | 2.8% | 8.8% | 44.3% | json data request server swift api respons url alamofir send
+Game Development | 2.8% | 7.2% | 55.9% | game scene node sprite spritekit screen player move score make
+Variables Def/Use | 2.5% | 9.6% | 29.9% | variabl properti swift access set declar struct refer assign object
+UI/Animations | 2.4% | 8.1% | 37.0% | anim move draw swipe gestur touch left screen uiview rotat
+Noise/General Words | 2.2% | 9.6% | 23.0% | search swift list io creat select user app tutori appreci
+Multithread/Sched. Func | 2.2% | 8.7% | 28.8% | call function time updat load complet data block run thread
+Optionals/Nil | 2.2% | 8.5% | 29.1% | option nil print return statement unwrap error check found unwrap_option
+UI/Text | 2.0% | 8.0% | 28.0% | text label field crash line uilabel font text_field chang set
+Media/Time Comp. | 2.0% | 6.0% | 48.7% | plai date video time sound timer audio record swift dai
+Location/Web Comp. | 1.7% | 5.8% | 42.0% | locat map user annot page googl url webview html uiwebview
 
 ## List of Optional questions analyzed
 

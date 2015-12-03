@@ -1,0 +1,330 @@
+Select  Id,OwnerUserId, AcceptedAnswerId,Title,Body,CreationDate,Score,ViewCount,
+AnswerCount,CommentCount,FavoriteCount,Tags
+from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2014-01-01'
+       AND CreationDate <= '2014-12-31'
+
+
+Select  Id,OwnerUserId, AcceptedAnswerId,Title,Body,CreationDate,Score,ViewCount,
+AnswerCount,CommentCount,FavoriteCount,Tags
+from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2015-01-01'
+       AND CreationDate <= '2015-10-11'
+
+
+Select distinct u.Id,u.Reputation, u.CreationDate,u.Location, u.Age, u.UpVotes, u.DownVotes
+from Users u where u.Id in ( Select  OwnerUserId from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2014-01-01'
+       AND CreationDate <= '2015-10-11')
+
+
+Select Id,OwnerUserId,ParentId,Body,CreationDate,Score, CommentCount, FavoriteCount
+from Posts p
+where p.ParentId in ( Select  Id from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2014-01-01'
+       AND CreationDate <= '2014-12-31')
+
+Select Id,OwnerUserId,ParentId,Body,CreationDate,Score, CommentCount, FavoriteCount
+from Posts p
+where p.ParentId in ( Select  Id from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2015-01-01'
+       AND CreationDate <= '2015-06-30')
+
+Select Id,OwnerUserId,ParentId,Body,CreationDate,Score, CommentCount, FavoriteCount
+from Posts p
+where p.ParentId in ( Select  Id from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2015-07-01'
+       AND CreationDate <= '2015-10-11')
+
+Select distinct u.Id,u.Reputation, u.CreationDate,u.Location, 
+u.Age, u.UpVotes, u.DownVotes
+from Users u
+where u.Id in (Select OwnerUserId
+from Posts p
+where p.ParentId in ( Select  Id from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2014-01-01'
+       AND CreationDate <= '2015-10-11')
+)
+
+
+Select p.Id,p.UserId,p.PostId,p.Score,p.Text,p.Score,p.CreationDate, q.PostTypeId
+from Comments p, Posts q
+where p.PostId in (Select  Id
+from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2014-01-01'
+       AND CreationDate <= '2014-12-31')
+       AND p.PostId = q.Id
+
+Select p.Id,p.UserId,p.PostId,p.Score,p.Text,p.Score,p.CreationDate, q.PostTypeId
+from Comments p, Posts q
+where p.PostId in (Select  Id
+from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2015-01-01'
+       AND CreationDate <= '2015-06-30')
+       AND p.PostId = q.Id
+
+Select p.Id,p.UserId,p.PostId,p.Score,p.Text,p.Score,p.CreationDate, q.PostTypeId
+from Comments p, Posts q
+where p.PostId in (Select  Id
+from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2015-07-01'
+       AND CreationDate <= '2015-10-11')
+       AND p.PostId = q.Id
+
+
+Select distinct u.Id,u.Reputation, u.CreationDate,u.Location, 
+u.Age, u.UpVotes, u.DownVotes
+from Users u
+where u.Id in (
+Select p.UserId
+from Comments p, Posts q
+where p.PostId in (Select  Id
+from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2014-01-01'
+       AND CreationDate <= '2015-10-11')
+       AND p.PostId = q.Id
+)
+
+
+Select p.Id,p.UserId,p.PostId,p.Score,p.Text,p.Score,p.CreationDate, q.PostTypeId
+from Comments p, Posts q
+where p.PostId in (Select Id
+from Posts p
+where p.ParentId in ( Select  Id from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2014-01-01'
+       AND CreationDate <= '2014-12-31'))
+       AND p.PostId = q.Id
+
+
+Select p.Id,p.UserId,p.PostId,p.Score,p.Text,p.Score,p.CreationDate, q.PostTypeId
+from Comments p, Posts q
+where p.PostId in (Select Id
+from Posts p
+where p.ParentId in ( Select  Id from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2015-07-01'
+       AND CreationDate <= '2015-10-11'))
+       AND p.PostId = q.Id
+
+
+Select distinct u.Id,u.Reputation, u.CreationDate,u.Location, 
+u.Age, u.UpVotes, u.DownVotes
+from Users u
+where u.Id in (Select p.UserId
+from Comments p, Posts q
+where p.PostId in (Select Id
+from Posts p
+where p.ParentId in ( Select  Id from Posts
+where (Tags like '%<swift>%' or 
+       Tags like '%<swift2>%' or 
+       Tags like '%<swift-playground>%' or
+       Tags like '%<swift-json>%' or       
+       Tags like '%<swift-extensions>%' or       
+       Tags like '%<sqlite.swift>%' or      
+       Tags like '%<swift-protocols>%' or
+       Tags like '%<swift-array>%' or      
+       Tags like '%<cocos2d-swift>%' or
+       Tags like '%<swift-dictionary>%' or      
+       Tags like '%<objective-c-swift-bridge>%' or
+       Tags like '%<rx-swift>%' or
+       Tags like '%<dollar.swift>%' or
+       Tags like '%<swift2.0>%' or
+       Tags like '%<swift-custom-framework>%')
+       AND CreationDate >= '2014-01-01'
+       AND CreationDate <= '2015-10-11'))
+       AND p.PostId = q.Id)
+

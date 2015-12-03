@@ -1,0 +1,95 @@
+select count(*) from (Select * from questions q where q.bodyText like '%exception%' or q.titleText like '%exception%') as exception;
+->1734
+
+select count(*) from (Select * from questions q where q.bodyText like '%exception%') as exception;
+Select * from questions q where q.bodyText like '%exception%';
+->1708
+
+select count(*) from (Select * from questions q where q.bodyText like '%exception hand%') as exception;
+Select * from questions q where q.bodyText like '%exception hand%';
+->15
+
+select count(*) from (Select * from questions q where q.bodyText like '%exception hand%' or q.titleText like '%exception hand%') as exception;
+->16
+
+
+select count(*) from (Select * from questions q where (q.processedBody like '% except %' and q.processedBody like '% handl %' ) or ( q.titleText like '% except %' and q.titleText like '% handl %') as exception;
+->58
+
+select count(*) from 
+(Select * from questions q where ( 
+(q.processedBody like '% except %' and q.processedBody like '% handl %' ) or 
+( q.titleText like '%except%' and q.titleText like '%handl%') or 
+(q.processedBody like '%catch%' and q.processedBody like '%try%') or 
+((q.processedBody like '%catch%' or q.processedBody like '%try%') and (q.bodyText like '%finally%') )or 
+(q.processedBody like '%catch%' and q.processedBody like '%try%' and q.processedBody like '%throw%'))
+)as exception;
+
+
+——
+select count(*) from 
+(Select * from questions q where ( 
+(q.processedBody like '% NSError %') or 
+( q.titleText like '% NSError %') or 
+(q.processedBody like '% except %' and q.processedBody like '% handl %' ) or 
+(q.processedBody like '% error %' and q.processedBody like '% handl %' ) or 
+( q.titleText like '%except%' and q.titleText like '%handl%') or 
+( q.titleText like '%error%' and q.titleText like '%handl%') or 
+(q.processedBody like '%catch%' and q.processedBody like '%try%') or 
+((q.processedBody like '%catch%' or q.processedBody like '%try%') and (q.bodyText like '%finally%') )or 
+((q.processedBody like '%catch%' or q.processedBody like '%try%') and (q.bodyText like '%defer%') )or 
+(q.processedBody like '%catch%' and q.processedBody like '%try%' and q.processedBody like '%throw%'))
+)as exception;
+-> 563
+
+Consulta auxiliares:
+
+
+Select id_question from questions q where ( 
+(q.processedBody like '% NSError %') or 
+( q.titleText like '% NSError %') or 
+(q.processedBody like '% except %' and q.processedBody like '% handl %' ) or 
+(q.processedBody like '% error %' and q.processedBody like '% handl %' ) or 
+( q.titleText like '%except%' and q.titleText like '%handl%') or 
+( q.titleText like '%error%' and q.titleText like '%handl%') or 
+(q.processedBody like '%catch%' and q.processedBody like '%try%') or 
+((q.processedBody like '%catch%' or q.processedBody like '%try%') and (q.bodyText like '%finally%') )or 
+((q.processedBody like '%catch%' or q.processedBody like '%try%') and (q.bodyText like '%defer%') )or 
+(q.processedBody like '%catch%' and q.processedBody like '%try%' and q.processedBody like '%throw%'))
+
+Consulta para verificar quantas perguntas NÃO possuem resposta favorita:
+
+select count(*) from 
+(Select * from questions q where (q.id_selected_answer IS NULL) and (  
+(q.processedBody like '% NSError %') or 
+( q.titleText like '% NSError %') or 
+(q.processedBody like '% except %' and q.processedBody like '% handl %' ) or 
+(q.processedBody like '% error %' and q.processedBody like '% handl %' ) or 
+( q.titleText like '%except%' and q.titleText like '%handl%') or 
+( q.titleText like '%error%' and q.titleText like '%handl%') or 
+(q.processedBody like '%catch%' and q.processedBody like '%try%') or 
+((q.processedBody like '%catch%' or q.processedBody like '%try%') and (q.bodyText like '%finally%') )or 
+((q.processedBody like '%catch%' or q.processedBody like '%try%') and (q.bodyText like '%defer%') )or 
+(q.processedBody like '%catch%' and q.processedBody like '%try%' and q.processedBody like '%throw%'))
+)as exception;
+-> 263
+
+Consulta para saber ano das perguntas:
+
+select count(*) from 
+(Select * from questions q where (year(q.creationDate) = 2014) and (  
+(q.processedBody like '% NSError %') or 
+( q.titleText like '% NSError %') or 
+(q.processedBody like '% except %' and q.processedBody like '% handl %' ) or 
+(q.processedBody like '% error %' and q.processedBody like '% handl %' ) or 
+( q.titleText like '%except%' and q.titleText like '%handl%') or 
+( q.titleText like '%error%' and q.titleText like '%handl%') or 
+(q.processedBody like '%catch%' and q.processedBody like '%try%') or 
+((q.processedBody like '%catch%' or q.processedBody like '%try%') and (q.bodyText like '%finally%') )or 
+((q.processedBody like '%catch%' or q.processedBody like '%try%') and (q.bodyText like '%defer%') )or 
+(q.processedBody like '%catch%' and q.processedBody like '%try%' and q.processedBody like '%throw%'))
+)as exception;
+
+2014 -> 132
+2015 -> 431
+
