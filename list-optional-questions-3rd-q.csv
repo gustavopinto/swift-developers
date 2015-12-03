@@ -1,0 +1,364 @@
+category,id_question,creationDate,score,viewCount,answerCount,commentCount,favoriteCount,tags,id_selected_answer,value
+Found nil while unwrapping,29730819,2015-04-19 13:57:27,-2,80,2,3,0,<ios><swift>,NULL,0.9229827595
+Found nil while unwrapping,28882954,2015-03-05 16:35:09,0,376,1,0,0,<swift><nsurl><nsurlrequest>,28883065,0.9228847788
+Others,31622771,2015-07-25 04:00:42,-2,85,1,1,0,<iphone><swift><optional>,NULL,0.9228847788
+Found nil while unwrapping,24948302,2014-07-25 04:51:53,2,7981,4,2,0,<ios><swift>,24948363,0.9086496585
+Found nil while unwrapping,29487926,2015-04-07 09:13:35,1,153,1,1,0,<ios><swift><fatal-error>,29488085,0.8990279601
+Found nil while unwrapping,28647816,2015-02-21 16:04:11,0,151,1,1,0,<swift><ios8>,28912415,0.8904822286
+Found nil while unwrapping,26736944,2014-11-04 13:56:22,0,481,3,0,1,<ios><swift><ios8>,26737543,0.8736277499
+Others,32234375,2015-08-26 18:45:40,0,24,1,6,0,<swift>,32236927,0.8601592678
+Found nil while unwrapping,31223402,2015-07-04 17:33:42,0,57,1,8,0,<ios><swift><null><xcode6><optional-values>,31223508,0.854490173
+Others,24053246,2014-06-05 06:38:25,3,276,5,0,1,<swift><optional>,NULL,0.8478958749
+Found nil while unwrapping,30500336,2015-05-28 07:48:20,-1,241,3,3,1,<ios><swift>,30500379,0.8410019413
+Found nil while unwrapping,26625254,2014-10-29 07:58:38,0,152,2,0,0,<swift>,NULL,0.8300316642
+Found nil while unwrapping,30952294,2015-06-20 09:15:16,1,166,1,3,0,<swift>,30952405,0.823796391
+Basic Usage,25523305,2014-08-27 09:18:23,5,4882,1,0,3,<swift><boolean><optional>,25523476,0.817770605
+Found nil while unwrapping,25287263,2014-08-13 13:15:26,0,400,1,3,0,<swift>,NULL,0.8174353817
+Basic Usage,27743774,2015-01-02 14:32:54,2,119,1,2,0,<ios><swift><optional><forced-unwrapping>,27743996,0.8053058508
+Found nil while unwrapping,29055637,2015-03-14 23:49:31,-1,57,1,2,0,<swift><uiviewcontroller>,NULL,0.8028226507
+Found nil while unwrapping,25947782,2014-09-20 10:27:56,0,456,1,0,0,<swift>,NULL,0.7923355953
+Found nil while unwrapping,31774193,2015-08-02 16:49:31,0,50,2,5,0,<swift>,NULL,0.7923355953
+Found nil while unwrapping,26860829,2014-11-11 08:46:29,0,102,2,2,0,<swift><ios8><optional>,26860891,0.7900121376
+Concept,27370700,2014-12-09 02:51:13,0,107,2,0,1,<swift><swiftype>,27370841,0.7764588777
+Basic Usage,25484883,2014-08-25 11:26:52,3,1571,1,1,1,<swift><var><println>,25484973,0.7734338879
+Others,27556911,2014-12-18 22:34:13,2,6990,1,2,2,<xcode><osx><swift><input>,27559078,0.7674491203
+Concept,28665375,2015-02-23 00:46:45,0,157,2,1,0,<swift><optional><forced-unwrapping>,28665576,0.7596972233
+Found nil while unwrapping,31350308,2015-07-10 21:08:19,0,42,1,0,0,<ios><swift><object><core-data><predicate>,NULL,0.7473111662
+Chaining,28046614,2015-01-20 13:31:55,2,67,1,1,0,<swift><optional>,NULL,0.7441873459
+Concept,31143806,2015-06-30 16:40:37,0,51,1,0,0,<swift><terminology>,31144044,0.7441873459
+Found nil while unwrapping,25986585,2014-09-23 03:53:00,0,408,1,0,0,<ios><xcode><swift>,25986738,0.7433257991
+Basic Usage,25489267,2014-08-25 15:25:43,1,1716,4,6,0,<swift><apple><optional>,25489623,0.7405136946
+Found nil while unwrapping,25394749,2014-08-19 23:50:26,1,654,1,0,0,<swift>,NULL,0.7334065428
+Concept,27169737,2014-11-27 11:33:36,1,72,2,1,0,<swift><optional>,NULL,0.7334065428
+Found nil while unwrapping,29051588,2015-03-14 16:53:40,0,154,3,0,0,<xcode><swift><null><xcode-6.2>,29051624,0.7334065428
+Found nil while unwrapping,30371215,2015-05-21 10:32:30,3,148,3,1,0,<ios><swift><uiimagepickercontroller>,30371532,0.7334065428
+Found nil while unwrapping,32277847,2015-08-28 18:46:20,-2,48,2,2,0,<ios><swift>,32278184,0.7316120281
+Basic Usage,32157667,2015-08-22 15:14:43,1,48,1,0,1,<swift><optional><swift-playground>,32157765,0.7309903333
+Concept,26615711,2014-10-28 18:23:30,-2,204,2,9,2,<if-statement><swift><syntax><assignment-operator><optional>,NULL,0.722781232
+Found nil while unwrapping,31989157,2015-08-13 13:08:06,-6,62,1,2,1,<ios><swift><swift2>,NULL,0.722781232
+Chaining,32003983,2015-08-14 06:53:28,1,58,3,0,0,<ios><swift><optional-chaining>,NULL,0.722781232
+Concept,29512430,2015-04-08 10:41:31,-1,68,1,3,0,<swift><optional>,29512555,0.7205175704
+Found nil while unwrapping,32518568,2015-09-11 08:05:25,0,25,0,2,0,<ios><iphone><swift><type-conversion>,NULL,0.7157028414
+Basic Usage,24481931,2014-06-30 01:38:26,2,275,3,0,0,<swift><optional>,24482011,0.713441494
+Basic Usage,24143679,2014-06-10 14:31:28,1,186,2,1,0,<uikit><swift>,24143845,0.7130407591
+Found nil while unwrapping,30333378,2015-05-19 18:28:47,0,180,1,5,0,<ios><swift><parse.com>,30334211,0.7126533284
+Found nil while unwrapping,29069559,2015-03-16 04:15:54,-1,237,1,3,0,<ios><swift>,NULL,0.7119158141
+Found nil while unwrapping,28404719,2015-02-09 07:24:36,1,108,1,2,0,<xcode><swift><cllocationmanager>,NULL,0.7062710078
+Basic Usage,25612254,2014-09-01 19:57:00,0,67,2,0,0,<swift>,NULL,0.7045755481
+Found nil while unwrapping,32453499,2015-09-08 09:00:52,1,40,0,6,0,<swift>,NULL,0.7045755481
+Basic Usage,28997804,2015-03-11 21:33:12,1,104,2,4,0,<swift>,28998010,0.6976311878
+Basic Usage,32645612,2015-09-18 06:50:36,4,87,2,2,1,<swift>,NULL,0.6952892887
+Found nil while unwrapping,32571512,2015-09-14 18:26:47,-1,31,1,3,0,<swift><fatal-error><optional>,NULL,0.6949314178
+Found nil while unwrapping,27382030,2014-12-09 15:01:19,0,40,2,0,0,<ios><swift>,27382102,0.6876879088
+Found nil while unwrapping,29816349,2015-04-23 07:19:00,1,95,2,3,0,<ios><xcode><swift>,30108846,0.6854218859
+Errors,31690216,2015-07-29 02:22:14,0,336,1,0,0,<ios><xcode><swift>,NULL,0.6846106585
+Concept,24369955,2014-06-23 15:40:43,1,322,3,0,0,<swift>,24370171,0.6831649211
+Found nil while unwrapping,31461376,2015-07-16 18:00:36,0,33,3,1,0,<ios><xcode><swift><optional>,31461454,0.680546876
+Basic Usage,29388468,2015-04-01 10:30:26,0,42,2,2,0,<swift>,29389020,0.6796442823
+Found nil while unwrapping,30030784,2015-05-04 12:57:39,0,159,2,3,0,<swift><sprite-kit>,30046010,0.6796442823
+Found nil while unwrapping,27956010,2015-01-15 02:45:31,-4,70,1,16,0,<ios><swift>,NULL,0.6791350197
+Found nil while unwrapping,25192427,2014-08-07 21:19:55,0,2328,1,0,0,<ios><string><swift><nsurl><optional>,25192471,0.6774640863
+Safe unwrapping,31737826,2015-07-31 03:57:36,0,80,1,8,0,<swift><nsmutablearray><optional>,31737896,0.6726698884
+Basic Usage,25979969,2014-09-22 17:37:55,1,320,2,2,0,<swift>,25980137,0.6699451084
+Found nil while unwrapping,27991187,2015-01-16 19:16:35,0,833,1,2,0,<swift><uiimageview>,27991458,0.6692162166
+Found nil while unwrapping,30960948,2015-06-21 03:16:43,-1,55,2,2,0,<swift>,30961048,0.6692162166
+Found nil while unwrapping,27732151,2015-01-01 15:39:09,1,335,2,4,0,<image><swift><ios8><xcode6><addressbook>,NULL,0.6675842231
+Found nil while unwrapping,27094651,2014-11-23 21:38:30,0,844,1,0,0,<swift><ios-simulator><avaudioplayer><nserror><ipad-mini>,27094947,0.6602127164
+Basic Usage,28970787,2015-03-10 17:57:07,0,144,4,4,1,<ios><arrays><swift>,28970873,0.6600958226
+Basic Usage,28925157,2015-03-08 09:54:03,1,321,2,1,0,<ios><uitableview><swift>,28925205,0.6591059158
+Found nil while unwrapping,32086230,2015-08-19 03:49:40,0,42,2,1,0,<xcode><swift><optional>,32087220,0.6577416329
+Found nil while unwrapping,32607618,2015-09-16 11:41:34,0,29,0,4,0,<ios><xcode><swift>,NULL,0.6575409244
+Concept,24163716,2014-06-11 13:04:45,1,377,1,0,1,<swift><optional-variables>,24164886,0.6566524227
+Found nil while unwrapping,30090102,2015-05-07 00:52:03,0,86,1,2,0,<ios><swift>,30090420,0.6557938947
+Found nil while unwrapping,31094744,2015-06-27 23:50:55,0,28,0,0,0,<swift><uitableview>,NULL,0.6544621832
+Concept,28570587,2015-02-17 20:31:38,1,87,1,0,0,<swift>,28570704,0.6527587196
+Basic Usage,27454893,2014-12-13 02:24:51,-2,96,1,1,0,<swift>,NULL,0.6510943182
+Basic Usage,26600229,2014-10-28 03:01:38,2,1146,1,0,0,<swift><plist>,26600328,0.650502588
+Found nil while unwrapping,32104072,2015-08-19 19:29:36,0,35,2,0,0,<ios><iphone><xcode><swift><uiimagepickercontroller>,32104925,0.650502588
+Basic Usage,24454686,2014-06-27 14:45:46,2,41,0,5,1,<ios><swift>,NULL,0.6492664844
+Found nil while unwrapping,26348250,2014-10-13 20:21:33,-2,531,2,3,0,<ios><swift>,NULL,0.6472085099
+Basic Usage,30068200,2015-05-06 05:25:58,1,83,2,0,0,<xcode><swift><return><avfoundation><optional>,NULL,0.6471570957
+Found nil while unwrapping,30370085,2015-05-21 09:42:30,1,86,1,2,0,<xcode><swift><for-loop><core-bluetooth><optional>,NULL,0.6459674908
+Found nil while unwrapping,30808370,2015-06-12 16:52:13,0,34,1,0,0,<swift><xcode6>,NULL,0.6452292803
+Unwrap multiple optionals,28662198,2015-02-22 19:23:21,1,47,1,0,0,<swift>,28662387,0.6444657202
+Found nil while unwrapping,31719234,2015-07-30 08:52:30,0,59,1,5,0,<ios><swift><uitableview><viewwithtag>,31722049,0.6428018138
+Performance,28551225,2015-02-16 22:09:01,0,114,2,2,0,<swift>,28551629,0.6397543981
+Not wrappable,31999852,2015-08-13 23:06:56,2,35,1,2,0,<ios><swift><optional>,32002685,0.6351788167
+Chaining,24482076,2014-06-30 02:01:45,1,50,2,0,0,<swift>,NULL,0.6340486305
+Basic Usage,25828301,2014-09-13 22:23:17,1,3205,3,2,0,<if-statement><swift>,25828512,0.6340486305
+Basic Usage,30692012,2015-06-07 09:31:34,2,99,2,0,0,<swift><boolean><optional>,30692046,0.632778359
+unwrap problems,24177850,2014-06-12 06:32:13,0,423,2,1,0,<swift><nsset><optional-values>,24179414,0.6321614253
+compiler problems,24712371,2014-07-12 11:17:30,1,1109,3,1,0,<swift><null><optional>,24714199,0.6321614253
+Found nil while unwrapping,26348996,2014-10-13 21:16:41,0,2166,1,0,0,<swift><null><optional>,NULL,0.6321614253
+Basic Usage,26881838,2014-11-12 07:54:09,0,1131,2,0,1,<swift><ios8><ios8.1>,26881977,0.6321614253
+Found nil while unwrapping,27205889,2014-11-29 19:03:32,0,834,1,1,0,<swift>,27206099,0.6305239228
+Basic Usage,24788870,2014-07-16 19:15:41,1,435,2,0,0,<ios><swift><optional>,24788971,0.6304732919
+Chaining,32775814,2015-09-25 06:04:57,0,39,3,0,0,<ios><swift>,32776023,0.629495907
+Found nil while unwrapping,29058088,2015-03-15 06:59:07,1,399,2,0,0,<ios><swift><mkmapview><cllocationmanager>,29058797,0.6287904877
+Found nil while unwrapping,30692691,2015-06-07 10:56:11,0,30,1,2,0,<ios><xcode><swift><optional>,NULL,0.6237388783
+Basic Usage (how to unwrap),33049246,2015-10-10 01:17:33,0,34,2,0,0,<swift>,33049357,0.6230427765
+Found nil while unwrapping,33058700,2015-10-10 20:33:54,1,20,1,2,0,<ios><swift><xcode7>,NULL,0.6230427765
+Chaining,27734612,2015-01-01 20:59:22,2,891,3,0,2,<swift><optional-chaining>,27734680,0.6222363071
+Basic Usage (how to unwrap),30631322,2015-06-03 21:45:01,0,64,1,0,0,<swift><xcode6><compiler-warnings><optional-values><forced-unwrapping>,30631367,0.6217707796
+Found nil while unwrapping,27005092,2014-11-18 22:11:03,-2,204,1,6,0,<uitableview><swift><uitabbarcontroller>,NULL,0.6206790132
+Found nil while unwrapping,32131159,2015-08-21 01:53:12,0,18,2,1,0,<xcode><swift><parse.com><optional>,NULL,0.6206790132
+Errors,24544025,2014-07-03 02:30:07,0,167,2,1,0,<ios><uiimage><swift>,24544143,0.6184719444
+Basic Usage,32967084,2015-10-06 09:59:37,0,26,2,3,0,<ios><swift><swift2>,NULL,0.6171324117
+Found nil while unwrapping,26113703,2014-09-30 05:55:19,0,1021,1,1,0,<ios><swift><settings.bundle><user-preferences>,NULL,0.6152305167
+Errors,24481859,2014-06-30 01:24:50,3,802,2,0,0,<swift>,NULL,0.6151012187
+Found nil while unwrapping,25834799,2014-09-14 15:19:42,-2,997,1,3,0,<swift><xcode6>,25836648,0.6136350778
+Found nil while unwrapping,27121523,2014-11-25 08:06:07,0,2322,0,5,0,<xcode><swift><label>,NULL,0.6114168321
+Found nil while unwrapping,30917115,2015-06-18 13:44:14,0,37,1,3,0,<ios><swift><parse.com>,NULL,0.6113235408
+Concept,30880969,2015-06-17 01:41:10,2,77,2,2,2,<swift><objective-c-nullability>,30891488,0.6099778333
+Basic Usage (how to unwrap),31556060,2015-07-22 07:02:19,0,88,1,1,0,<ios><xcode><swift><optional>,31556284,0.6096821402
+not directly related,30814592,2015-06-13 02:48:52,4,108,1,4,0,<swift><forced-unwrapping>,NULL,0.6091776696
+Concept,24395511,2014-06-24 20:17:31,0,182,1,0,1,<swift>,24395580,0.6081226515
+Unwrap multiple optionals,24548999,2014-07-03 08:44:38,18,5582,6,1,1,<swift><optional>,28418847,0.6081226515
+Optional biding,26613195,2014-10-28 16:12:51,1,554,3,0,2,<swift><syntax><variable-assignment><conditional-statements><optional>,NULL,0.6076728144
+Optional biding,31855182,2015-08-06 11:59:19,0,51,4,1,0,<swift><optional><optional-binding>,NULL,0.6062330943
+Found nil while unwrapping,27809789,2015-01-07 00:49:42,0,917,2,1,0,<ios><swift>,NULL,0.6042539278
+Concept,31496971,2015-07-19 00:51:22,1,67,2,0,1,<swift>,31497018,0.6033190451
+Concept,24230427,2014-06-15 14:11:31,2,250,3,3,2,<swift><optional-variables>,24230884,0.6019419298
+Basic Usage,32803313,2015-09-27 00:15:10,-1,60,3,6,0,<xcode><swift><optional>,NULL,0.6019419298
+Found nil while unwrapping,32529905,2015-09-11 18:26:10,0,34,1,0,0,<swift><gyroscope><core-motion>,32530783,0.6015102657
+Found nil while unwrapping,29711806,2015-04-18 01:18:17,-2,93,1,3,0,<ios><swift><optional>,29711901,0.6012356074
+Found nil while unwrapping,31661244,2015-07-27 19:04:39,0,60,0,9,0,<ios><objective-c><swift><debugging>,NULL,0.5986384001
+Concept,28986480,2015-03-11 12:19:44,1,49,1,0,0,<swift><optional>,28986771,0.5982846783
+Found nil while unwrapping,28681991,2015-02-23 19:40:43,0,133,1,0,0,<ios><swift><xcode6><icloud><cloudkit>,NULL,0.5971894907
+Found nil while unwrapping,32969664,2015-10-06 12:12:39,0,27,3,1,0,<ios><swift>,32969679,0.5971894907
+Basic Usage,30361981,2015-05-20 23:19:33,2,227,3,2,0,<swift><optional>,30362131,0.5957960511
+Concept,24232193,2014-06-15 17:24:05,0,58,1,3,0,<swift>,NULL,0.595106634
+Found nil while unwrapping,30339205,2015-05-20 02:18:19,0,53,2,1,0,<ios><swift>,NULL,0.595106634
+Found nil while unwrapping,25422536,2014-08-21 09:16:23,2,2198,2,11,0,<ios><swift><tableview><iboutlet>,NULL,0.5943706711
+Found nil while unwrapping,27882009,2015-01-10 22:49:15,0,672,1,2,1,<swift><ios8><nsdata><nsurl>,27882277,0.5943706711
+Found nil while unwrapping,28355041,2015-02-05 22:11:32,0,317,1,0,0,<swift><ios8>,NULL,0.5932215251
+Chaining,29221293,2015-03-23 22:01:58,0,59,3,0,0,<uitableview><swift><optional><optional-chaining>,29221619,0.5914828779
+Found nil while unwrapping,31265955,2015-07-07 10:24:09,2,46,1,3,0,<ios><swift><uipageviewcontroller><snapshot>,31281541,0.5914828779
+Basic Usage,28530652,2015-02-15 20:16:40,4,269,1,5,0,<ios><swift><optional>,28531068,0.5899700365
+Basic Usage,24459171,2014-06-27 19:06:32,3,3044,2,0,1,<switch-statement><swift><tuples><optional>,24461880,0.5895648515
+Found nil while unwrapping,28417313,2015-02-09 19:03:40,-1,225,2,2,0,<ios><swift><uiviewcontroller>,NULL,0.5895648515
+?,29835099,2015-04-23 21:59:01,-2,180,1,4,0,<ios><swift><optional>,29835157,0.5875704216
+Found nil while unwrapping,28704528,2015-02-24 19:27:43,0,148,1,5,0,<swift><null>,NULL,0.5869859088
+Found nil while unwrapping,29974019,2015-04-30 17:20:02,0,837,1,8,0,<ios><swift><parse.com>,29977235,0.5850308851
+Found nil while unwrapping,32682144,2015-09-20 17:18:17,0,37,1,3,0,<ios><swift><uilabel>,NULL,0.5830495116
+Found nil while unwrapping,25526720,2014-08-27 12:04:50,0,31,1,1,0,<swift>,NULL,0.5829702817
+Found nil while unwrapping,27475809,2014-12-15 00:34:30,1,464,1,0,0,<swift><mapkit>,NULL,0.5829702817
+Found nil while unwrapping,28596287,2015-02-18 23:56:34,0,997,1,2,0,<swift>,NULL,0.5801348321
+Basic Usage (printing optional),32101920,2015-08-19 17:25:48,0,24,1,1,0,<xcode><swift>,32102002,0.5784177918
+Found nil while unwrapping,32302831,2015-08-31 01:26:48,1,33,1,0,0,<ios><swift>,NULL,0.5784177918
+Found nil while unwrapping,27100603,2014-11-24 08:27:58,-1,447,1,9,0,<parsing><swift><xcode6>,27100763,0.5778077372
+Found nil while unwrapping,27964095,2015-01-15 13:02:18,-2,312,1,3,0,<ios><swift>,27964152,0.5748789744
+Optional biding,26576366,2014-10-26 18:22:56,2,170,2,0,1,<if-statement><swift><optional>,NULL,0.5743645609
+Found nil while unwrapping,30136182,2015-05-09 04:56:45,-3,301,5,0,1,<ios><swift><null><optional>,30166103,0.5737932966
+Found nil while unwrapping,26675490,2014-10-31 13:08:55,4,9687,2,0,1,<ios><iphone><xcode><swift>,26675638,0.5733599368
+Found nil while unwrapping,26844241,2014-11-10 12:49:41,0,221,0,1,1,<swift>,NULL,0.5733599368
+Concept,24272781,2014-06-17 20:31:34,2,443,3,0,0,<ios><swift><ios8><optional>,24272879,0.5702701202
+Found nil while unwrapping,32021748,2015-08-15 05:10:28,0,40,2,4,0,<swift>,NULL,0.5699520333
+Concept,31764762,2015-08-01 18:15:41,1,30,1,0,0,<swift><closures><optional>,31764851,0.5693931479
+Found nil while unwrapping,32769421,2015-09-24 19:28:44,0,38,1,0,0,<ios><iphone><swift><alamofire>,NULL,0.5693931479
+Found nil while unwrapping,30981518,2015-06-22 13:42:12,0,28,0,3,0,<ios><swift><compiler-errors><uicollectionview>,NULL,0.5661957262
+Found nil while unwrapping,26755978,2014-11-05 11:21:47,1,321,3,0,0,<ios><image-processing><swift><uiimage><vimage>,NULL,0.5661000221
+Basic Usage (how to use),27998409,2015-01-17 10:11:19,3,3735,2,6,2,<ios><iphone><swift>,27998447,0.5658333441
+Found nil while unwrapping,32102549,2015-08-19 18:03:10,0,34,3,0,0,<swift><nsmutabledictionary><optional>,32103207,0.5658333441
+Basic Usage,26110207,2014-09-29 22:57:33,1,196,1,1,1,<ios><design-patterns><swift><optional>,26112871,0.5654007238
+Basic Usage,26643190,2014-10-30 00:45:24,3,113,1,0,0,<swift>,26643680,0.565024653
+Found nil while unwrapping,29056737,2015-03-15 02:56:08,0,53,1,0,0,<xcode><swift><core-data>,NULL,0.5626983945
+Found nil while unwrapping,25289637,2014-08-13 15:02:31,2,304,1,0,0,<ios><swift>,NULL,0.5626209478
+Basic Usage,28864499,2015-03-04 20:42:39,2,174,2,1,0,<string><swift><optional>,28864666,0.5626209478
+Found nil while unwrapping,26640210,2014-10-29 20:37:23,2,1139,1,0,0,<swift><swift-playground>,26640545,0.5625679202
+Found nil while unwrapping,32106299,2015-08-19 21:55:53,1,89,4,0,0,<ios><swift>,32106378,0.5604649317
+Basic Usage (interesting),25195565,2014-08-08 03:16:47,2,399,2,1,2,<swift><ios8><optional>,25195633,0.5597074691
+Basic Usage,26510971,2014-10-22 15:17:13,1,64,1,0,0,<dictionary><printing><swift>,26511163,0.5580518427
+?,31026967,2015-06-24 12:45:13,0,31,1,0,0,<switch-statement><where><optional><swift-playground>,31034403,0.5580518427
+Chaining,24073669,2014-06-06 03:20:15,1,213,2,0,0,<swift>,NULL,0.5570530407
+Basic Usage (how to unwrap),26994834,2014-11-18 12:52:29,1,208,2,0,0,<reflection><swift>,NULL,0.5570530407
+Found nil while unwrapping,32701824,2015-09-21 18:05:09,1,30,1,0,0,<ios><swift><swift2><ios9>,32701989,0.5537334575
+Basic Usage (interesting),26019929,2014-09-24 14:47:30,1,129,3,0,0,<ios><uiviewcontroller><swift>,26024769,0.5521884407
+Errors,27868103,2015-01-09 19:49:42,4,3504,1,0,0,<ios><swift>,27868150,0.5505581551
+Found nil while unwrapping,27875245,2015-01-10 10:38:10,-1,277,1,2,0,<swift>,NULL,0.5484391584
+Found nil while unwrapping,28917116,2015-03-07 16:30:43,0,102,1,0,0,<xcode><swift><error-handling><fatal-error><skproduct>,28917213,0.5474928228
+Found nil while unwrapping,27670004,2014-12-27 18:04:01,0,180,1,0,0,<swift><cmmotionmanager>,NULL,0.5447779438
+Found nil while unwrapping,30954013,2015-06-20 12:27:42,-1,26,1,4,0,<swift>,30954411,0.5423566678
+Found nil while unwrapping,32105808,2015-08-19 21:17:02,-2,31,1,7,0,<swift>,NULL,0.5423566678
+Found nil while unwrapping,28331094,2015-02-04 20:46:01,0,86,1,2,0,<xcode><swift><post>,28331747,0.5420851344
+Basic Usage,31623196,2015-07-25 05:12:51,0,35,3,2,0,<swift><optional><unwrap>,NULL,0.5420851344
+Basic Usage (printing optional),29316217,2015-03-28 10:46:22,0,69,2,2,0,<ios><swift><optional-variables>,29316815,0.5401838102
+Basic Usage (printing optional),31041661,2015-06-25 05:09:59,1,34,2,0,0,<ios><iphone><swift>,31041707,0.5382230057
+Basic Usage,24006975,2014-06-03 04:09:33,207,19536,8,0,79,<swift>,24007032,0.5372047835
+Found nil while unwrapping,30151172,2015-05-10 12:04:36,-1,64,1,3,0,<ios><swift>,NULL,0.5367744793
+Errors (cant get optional none),24149740,2014-06-10 19:53:14,0,263,1,0,0,<swift>,NULL,0.5364446565
+Optional biding and chaining,24244535,2014-06-16 13:09:31,0,274,2,0,1,<swift>,24245399,0.5361565704
+Found nil while unwrapping,32555640,2015-09-13 23:51:40,1,35,0,6,0,<ios><swift><uilabel>,NULL,0.5351658039
+Basic Usage (printing optional),31810660,2015-08-04 13:28:45,0,69,4,0,0,<swift>,NULL,0.5348244282
+Found nil while unwrapping,32898688,2015-10-02 00:10:34,0,18,0,5,0,<ios><swift><segue><iboutlet>,NULL,0.5348244282
+Errors (new),30667663,2015-06-05 13:21:53,1,48,1,2,0,<ios><swift><cocos2d-iphone><physics>,NULL,0.5346320076
+Basic Usage,26910229,2014-11-13 13:39:45,2,1069,2,0,2,<swift><boolean><evaluation><optional>,26910624,0.5333421296
+Found nil while unwrapping,30928710,2015-06-19 01:55:24,1,24,1,0,0,<ios><xcode><swift>,30929076,0.5333421296
+Basic Usage (what is the shortest way),24647442,2014-07-09 07:14:50,0,117,2,0,2,<swift><optional-variables>,24648011,0.531980867
+FP?,31460395,2015-07-16 17:04:10,8,98,2,1,0,<swift><null><swift2>,31460755,0.5316920833
+Concept,26359427,2014-10-14 11:12:26,1,55,1,0,0,<ios><swift><optional>,26359871,0.5309282996
+errors (not unwrapped),24877098,2014-07-22 00:38:38,4,2706,1,0,1,<swift>,24877139,0.5307263971
+Found nil while unwrapping,27295894,2014-12-04 13:57:58,1,580,1,1,0,<ios><uitableview><swift><xcode6><reloaddata>,27296274,0.5307263971
+Found nil while unwrapping,28057471,2015-01-21 00:06:28,0,64,0,2,0,<ios><swift><view>,NULL,0.5307263971
+Basic Usage,27088546,2014-11-23 11:42:23,0,59,1,0,0,<xcode><swift><type-conversion><optional><optional-values>,27088727,0.5299750969
+Found nil while unwrapping,25306229,2014-08-14 10:49:23,0,253,1,0,0,<xcode><swift><ios8>,NULL,0.5295666273
+Found nil while unwrapping,28640685,2015-02-21 00:45:26,1,77,1,0,0,<xcode><swift><uilabel><segue>,28642381,0.5295666273
+Found nil while unwrapping,33029040,2015-10-09 02:43:13,0,24,1,0,0,<facebook><swift><facebook-graph-api><alamofire><swifty-json>,NULL,0.5295666273
+Basic Usage,27362398,2014-12-08 16:28:50,0,144,2,0,0,<ios><swift><optional>,27374884,0.5295060973
+Basic Usage,27878793,2015-01-10 17:04:51,1,48,0,3,0,<swift><optional><syntactic-sugar>,NULL,0.5284912243
+Basic Usage (how to unwrap),29054096,2015-03-14 20:55:55,0,98,2,0,0,<swift><optional-values>,29054155,0.5269999069
+Found nil while unwrapping,31647328,2015-07-27 07:34:33,-2,41,1,2,0,<ios><iphone><swift><ios9>,NULL,0.5246507676
+Basic Usage (printing optional),26733333,2014-11-04 10:53:38,0,670,1,0,1,<ios><swift>,26733589,0.5227093121
+Basic Usage,26018578,2014-09-24 13:48:16,-2,59,2,0,0,<ios><xcode><swift>,26021103,0.5209970514
+Optional biding,27109894,2014-11-24 16:50:33,6,730,4,0,0,<ios><swift>,27110066,0.5209970514
+Found nil while unwrapping,31329198,2015-07-09 22:15:32,0,85,1,3,1,<swift><fatal-error>,31329271,0.5209970514
+Errors,31549454,2015-07-21 20:56:07,1,36,2,2,0,<swift><parse.com><optional>,NULL,0.5209970514
+Found nil while unwrapping,31126680,2015-06-29 22:33:21,0,16,2,0,0,<ios><swift><parse.com>,31126745,0.5188782286
+Errors,24091729,2014-06-06 22:48:30,6,1199,2,0,1,<swift>,24600376,0.5182866233
+Found nil while unwrapping,24643522,2014-07-09 00:12:34,34,79561,9,2,8,<ios><swift><uicollectionview><wrapping>,24643643,0.5182866233
+Errors,27145392,2014-11-26 09:24:24,0,362,3,0,0,<ios><swift>,NULL,0.5182866233
+Found nil while unwrapping,31730342,2015-07-30 17:27:00,0,133,1,5,0,<ios><xcode><swift>,NULL,0.518010135
+Basic Usage,24204606,2014-06-13 11:48:11,2,2665,2,6,0,<swift>,24206323,0.5164932855
+Chaining,26524246,2014-10-23 08:38:01,7,429,3,2,3,<swift><optional>,26524391,0.5145342764
+Found nil while unwrapping,29779722,2015-04-21 17:55:00,0,46,0,2,0,<ios><xcode><swift>,NULL,0.5138250636
+Basic Usage (how to unwrap),26176199,2014-10-03 09:05:42,0,87,1,2,0,<ios><xcode><sqlite><swift><optional>,26177659,0.5131818438
+Basic Usage,32256834,2015-08-27 18:23:49,11,302,2,0,2,<swift><swift2>,32256911,0.5131818438
+Basic Usage,25202770,2014-08-08 11:44:53,12,3904,3,7,1,<swift><expression>,28694681,0.5131665469
+Basic Usage,26363050,2014-10-14 14:15:18,1,210,2,0,0,<ios><swift><optional-values>,26363384,0.5125958156
+Found nil while unwrapping,32735233,2015-09-23 09:02:20,0,62,2,0,0,<swift><nsfilemanager>,32735390,0.5125958156
+Errors,31540810,2015-07-21 13:42:41,0,38,1,0,0,<arrays><swift><sprite-kit>,31540937,0.511113579
+Basic Usage,28256695,2015-01-31 21:25:32,1,744,5,8,0,<swift><conditional-operator>,28257701,0.5106584125
+Found nil while unwrapping,29472149,2015-04-06 13:20:49,2,1697,4,0,1,<ios><xcode><swift><url><xcode6>,NULL,0.5103051285
+Concept,24876858,2014-07-22 00:08:27,2,409,2,2,0,<swift>,NULL,0.509943463
+Found nil while unwrapping,26619699,2014-10-28 22:34:54,0,105,3,0,0,<ios><swift><optional-values>,26620676,0.509943463
+Found nil while unwrapping,30833316,2015-06-14 19:00:07,0,40,1,4,0,<ios><xcode><swift>,30833486,0.508996272
+Basic Usage (printing optional),27494041,2014-12-15 22:07:19,5,1272,1,2,0,<swift><asynchronous><parse.com><optional>,27497856,0.5073603113
+Found nil while unwrapping,29360779,2015-03-31 04:45:56,0,90,0,1,0,<ios><xcode><swift><null>,NULL,0.5066674707
+Optional biding,25112540,2014-08-04 05:57:22,3,1315,2,0,0,<swift>,25112600,0.504762272
+FP?,31236419,2015-07-06 00:41:06,-1,103,1,4,0,<ios><swift><debugging><nsdictionary><optional>,31236501,0.4962957336
+Basic Usage,31136407,2015-06-30 10:58:10,0,36,1,0,1,<swift>,31136639,0.4959494987
+Basic Usage,24685558,2014-07-10 20:20:04,1,401,1,5,0,<xcode><swift><uisplitviewcontroller>,25095269,0.4957921779
+Found nil while unwrapping,31629413,2015-07-25 17:51:20,-2,34,1,0,0,<ios><swift2>,31629577,0.4957921779
+Basic Usage,29910349,2015-04-28 04:28:44,0,79,1,0,0,<swift>,29910469,0.4953396609
+Found nil while unwrapping,30259632,2015-05-15 12:31:53,0,251,1,2,0,<ios><web-services><swift><rest>,30259871,0.495130177
+Found nil while unwrapping,31375141,2015-07-13 03:49:02,0,78,2,3,0,<ios><swift>,NULL,0.494900974
+Found nil while unwrapping,27867575,2015-01-09 19:13:13,0,416,1,13,0,<ios><xcode><swift><fatal-error><iboutlet>,NULL,0.4937183695
+Optional biding (interesting),31715210,2015-07-30 04:31:09,1,36,1,0,0,<swift><terminology><optional>,NULL,0.4937183695
+Found nil while unwrapping,30955401,2015-06-20 15:02:28,0,63,0,0,0,<swift>,NULL,0.4928943743
+Found nil while unwrapping,28311316,2015-02-04 00:19:47,-2,45,3,1,0,<ios><swift>,28311386,0.4926534528
+Found nil while unwrapping,28653646,2015-02-22 01:59:23,0,205,1,3,0,<ios><swift><nsdata><optional>,28653799,0.4921190328
+Basic Usage,24153120,2014-06-11 00:57:48,5,868,2,1,0,<ios><swift><xcode6>,NULL,0.4915007609
+Found nil while unwrapping,27654037,2014-12-26 07:15:15,1,1248,1,2,0,<ios><iphone><uitableview><swift>,27654104,0.4915007609
+Found nil while unwrapping,27113686,2014-11-24 20:34:54,2,2877,4,2,0,<swift><label><null>,27119469,0.4894271214
+Found nil while unwrapping,32939027,2015-10-04 22:26:16,-2,28,0,6,1,<ios><swift><uitableview>,NULL,0.4894271214
+FP?,28400600,2015-02-08 23:24:27,2,61,2,1,0,<ios><osx><swift>,28400723,0.4882837077
+Found nil while unwrapping,28595756,2015-02-18 23:10:41,-1,175,1,4,0,<ios><swift>,28596022,0.4882837077
+Chaining,26262330,2014-10-08 16:54:24,1,40,1,1,0,<ios><swift>,26262401,0.4876139578
+Basic Usage,26692837,2014-11-01 20:19:52,1,102,3,1,0,<swift><optional>,26692878,0.4876139578
+Basic Usage,29717210,2015-04-18 12:15:44,16,1065,4,2,10,<ios><swift><optional><swift2>,29717211,0.4868629941
+Found nil while unwrapping,31059081,2015-06-25 19:24:48,0,48,2,8,0,<ios><swift>,NULL,0.4868629941
+Found nil while unwrapping,26429415,2014-10-17 16:25:42,0,98,1,1,0,<ios><parsing><swift><facebook-ios-sdk>,NULL,0.4850501847
+Errors,32850021,2015-09-29 17:17:25,-1,23,1,2,0,<string><swift><optional><conditional-binding>,32850252,0.4850501847
+Concept,32154698,2015-08-22 09:50:25,2,45,1,3,0,<swift>,NULL,0.4827280158
+Found nil while unwrapping,32232392,2015-08-26 16:55:44,1,68,3,8,0,<swift><generics><swift2>,NULL,0.4827280158
+Found nil while unwrapping,25192239,2014-08-07 21:08:55,0,319,1,1,1,<ios><swift>,NULL,0.4822366347
+Found nil while unwrapping,24998743,2014-07-28 15:31:44,-1,528,1,2,0,<ios><arrays><swift>,NULL,0.4818533418
+Basic Usage,26347777,2014-10-13 19:47:51,6,4417,4,0,3,<string><swift>,NULL,0.481148038
+Found nil while unwrapping,25195133,2014-08-08 02:15:24,0,186,2,6,0,<ios><swift>,NULL,0.4808378021
+Basic Usage (test variable is nil),26941529,2014-11-15 01:30:44,12,2157,1,0,2,<swift>,26941591,0.4802145756
+Found nil while unwrapping,32665811,2015-09-19 08:01:43,0,12,1,4,0,<ios><swift><sprite-kit>,32667351,0.4792228981
+Found nil while unwrapping,30298477,2015-05-18 08:34:24,0,65,1,0,0,<json><swift>,30298659,0.4779440527
+Found nil while unwrapping,31360764,2015-07-11 19:05:46,0,31,0,0,0,<swift><null><physics><collision>,NULL,0.4779440527
+Found nil while unwrapping,30814927,2015-06-13 04:02:21,2,127,1,0,0,<ios><swift><cllocationmanager>,30814995,0.4759043271
+Found nil while unwrapping,28679936,2015-02-23 17:43:34,0,64,0,2,0,<xcode><swift>,NULL,0.4748477784
+Found nil while unwrapping,29934931,2015-04-29 05:17:45,0,198,1,0,0,<ios><swift><debugging>,29935248,0.4741828178
+Found nil while unwrapping,29725263,2015-04-19 02:53:20,0,84,0,1,0,<swift><core-data><entity>,NULL,0.473932937
+Found nil while unwrapping,31231766,2015-07-05 15:08:14,0,256,1,6,0,<ios><swift><uitableview><xib><custom-cell>,31232004,0.473932937
+Concept,24190340,2014-06-12 17:21:08,8,2561,3,4,1,<swift>,24190397,0.4707402088
+Basic Usage (how to unwrap),25589605,2014-08-31 06:48:22,7,1678,4,3,5,<swift>,26854528,0.4707402088
+Objective-c,28380119,2015-02-07 08:33:23,0,54,1,1,0,<objective-c><swift><optional>,28380298,0.4707402088
+Errors,32847817,2015-09-29 15:19:16,0,43,1,1,1,<xcode><swift><swift2><ios9><xcode7>,NULL,0.4707402088
+Found nil while unwrapping,33056485,2015-10-10 16:52:04,0,12,1,1,0,<swift><nsdate><nsdateformatter>,NULL,0.4707402088
+Found nil while unwrapping,32820708,2015-09-28 10:23:19,0,23,1,0,0,<ios><nsdata><swift2>,32820869,0.4706779449
+Chaining,24004443,2014-06-02 22:41:54,7,2664,2,0,2,<swift>,24004566,0.4699538279
+Found nil while unwrapping,25530976,2014-08-27 15:18:14,0,397,1,7,0,<swift><uilabel><optional>,NULL,0.4699538279
+Found nil while unwrapping,25661158,2014-09-04 08:53:09,0,58,2,2,0,<uitableview><swift>,NULL,0.4694947685
+Found nil while unwrapping,28407942,2015-02-09 10:47:11,0,1757,5,0,0,<ios><oop><swift><nsobject>,28408705,0.4694947685
+Chaining,30323710,2015-05-19 10:58:05,1,36,1,0,0,<swift><forced-unwrapping><optional-chaining>,NULL,0.4675497194
+Found nil while unwrapping,28226772,2015-01-29 23:40:31,0,73,1,4,1,<ios><swift>,28226963,0.4666605131
+FP?,28253891,2015-01-31 16:34:53,0,52,4,1,0,<swift><ios8>,28254438,0.4666562186
+Found nil while unwrapping,31060347,2015-06-25 20:39:22,0,70,2,1,0,<ios><swift><hmac><sha256>,NULL,0.4657212014
+FP?,24205768,2014-06-13 12:50:52,4,1685,2,4,0,<ios><osx><cocoa><swift>,24206064,0.4650291793
+Found nil while unwrapping,30798114,2015-06-12 07:58:43,0,74,2,1,0,<ios><swift><watchkit>,30815659,0.4650291793
+Found nil while unwrapping,31871554,2015-08-07 07:03:18,2,32,1,5,0,<swift>,NULL,0.4650291793
+Found nil while unwrapping,32371299,2015-09-03 09:01:59,-2,56,1,2,0,<swift>,NULL,0.4650291793
+Found nil while unwrapping,32539646,2015-09-12 13:57:54,-1,33,2,0,0,<ios><swift><uiview><apple>,NULL,0.4650291793
+Basic Usage,31743537,2015-07-31 10:05:04,-2,68,1,0,0,<ios><xcode><swift><optional><optional-variables>,31743680,0.4638545385
+Basic Usage,24452562,2014-06-27 13:04:45,4,149,4,1,0,<swift><optional>,24452672,0.4636743108
+Basic Usage,27575753,2014-12-20 00:21:38,3,849,4,0,1,<swift><optional-variables>,27576015,0.4636743108
+Found nil while unwrapping,32627096,2015-09-17 09:39:01,0,61,1,2,0,<sprite-kit><swift2><ios9><optional><skemitternode>,NULL,0.4630771086
+Basic Usage (printing optional),29181871,2015-03-21 10:55:02,0,171,2,3,0,<debugging><swift>,NULL,0.4625252687
+?,27992323,2015-01-16 20:32:39,1,82,3,4,0,<swift><optional>,27992537,0.4614174115
+Found nil while unwrapping,32015032,2015-08-14 16:48:54,-2,67,2,3,0,<ios><swift><option>,32023883,0.4614174115
+Errors,27235074,2014-12-01 18:46:34,0,228,1,1,0,<ios><xcode><swift>,27235162,0.4612472277
+Found nil while unwrapping,26109669,2014-09-29 22:05:38,2,401,2,0,1,<ios><swift>,26112920,0.4601005343
+Concept,31467510,2015-07-17 02:22:41,5,183,2,0,1,<ios><swift><optional-values>,31468179,0.4601005343
+Found nil while unwrapping,28765260,2015-02-27 12:34:35,1,1341,1,3,0,<php><xcode><swift><nsurl><null>,28768520,0.4576061768
+Found nil while unwrapping,26203000,2014-10-05 13:30:01,1,847,2,2,0,<ios><swift>,NULL,0.4572999361
+Basic Usage (printing optional),25846561,2014-09-15 11:01:14,6,4769,5,0,1,<swift>,NULL,0.4565480798
+Basic Usage (non-optional),30657224,2015-06-05 02:07:08,3,62,3,0,0,<swift><setter><getter><optional>,30657784,0.4565480798
+Found nil while unwrapping,28420232,2015-02-09 21:59:46,1,559,6,0,1,<ios><swift><xcode6><optional>,NULL,0.4565327397
+Errors,24037827,2014-06-04 12:44:55,0,73,1,0,0,<swift>,24037875,0.4554035302
+Found nil while unwrapping,27355107,2014-12-08 09:37:33,1,246,1,0,0,<ios><swift><uitextfield>,NULL,0.454076503
+FP?,29668286,2015-04-16 07:38:07,4,84,3,2,0,<ios><iphone><ipad><swift><ios8>,29668645,0.454076503
+Found nil while unwrapping,31089501,2015-06-27 13:50:41,0,30,1,1,0,<swift>,31090235,0.454076503
+Found nil while unwrapping,25708909,2014-09-07 09:37:20,0,375,1,4,0,<uitableview><swift><parse.com><ibaction>,NULL,0.4537435597
+Chaining,27170979,2014-11-27 12:36:26,1,984,1,0,0,<swift><nsnumber><optional>,27171205,0.4529594549
+Found nil while unwrapping,29222971,2015-03-24 00:37:02,-2,169,1,3,0,<ios><swift><nsdata><null><nsinputstream>,29223118,0.4529594549
+Basic Usage (syntax issues),27991378,2015-01-16 19:29:19,7,616,2,2,1,<ios><swift><optional>,NULL,0.4505520367
+Basic Usage,30741155,2015-06-09 19:29:59,1,47,2,6,0,<ios><swift><coding-style>,NULL,0.4503266561
+Errors,29387444,2015-04-01 09:41:14,0,665,1,0,0,<swift><nslog><optional>,29387514,0.4502319554
+compiler problems,31974094,2015-08-12 19:46:31,1,72,2,3,0,<swift>,31975453,0.4502319554
+Found nil while unwrapping,29719373,2015-04-18 15:36:56,1,86,1,3,0,<ios><uitableview><swift>,29720397,0.450179823
+Found nil while unwrapping,27381728,2014-12-09 14:47:09,0,24,0,4,0,<ios><swift><ios8.1>,NULL,0.4490343613
+Concept,27622871,2014-12-23 15:00:43,21,2677,2,3,9,<ios><osx><swift><optional>,27623568,0.4488312214
+Basic Usage,24391990,2014-06-24 16:40:32,2,109,1,0,0,<swift>,24392074,0.4487460552
+Found nil while unwrapping,29658033,2015-04-15 18:30:45,1,86,1,0,1,<ios><swift><uiscrollview>,NULL,0.4487460552
+fp?,29981505,2015-05-01 04:14:12,3,107,1,0,0,<ios><swift>,29981560,0.4482123148
+Basic Usage (how to unwrap),31169465,2015-07-01 18:56:48,3,51,1,2,0,<ios><swift>,31169769,0.4482123148
+Basic Usage (how to check),30168668,2015-05-11 13:14:16,0,85,1,0,0,<swift><resultset><fmdb>,NULL,0.4472423908
+Basic Usage (how to check),25521886,2014-08-27 08:02:02,1,8139,3,3,0,<ios><swift><optional-variables>,25526246,0.4471686969
+FP?,32078628,2015-08-18 17:09:26,0,34,1,13,0,<ios><swift>,NULL,0.4471686969
+Basic Usage,25540208,2014-08-28 03:22:08,2,1873,3,2,1,<swift>,25548004,0.4468874688
+Errors,29691994,2015-04-17 06:36:43,0,54,1,3,0,<ios><swift>,NULL,0.4468874688
+Basic Usage (printing optional),29380972,2015-04-01 00:40:35,1,78,2,0,1,<ios><xcode><swift>,NULL,0.4454911682
+Found nil while unwrapping,27979618,2015-01-16 08:09:46,0,101,2,0,0,<ios><web-services><swift><nsurl>,27979805,0.4437036142
+Basic Usage (how to unwrap),32473931,2015-09-09 07:54:11,1,35,1,0,1,<swift><optional>,32474148,0.4437036142
+Found nil while unwrapping,26391158,2014-10-15 20:06:49,1,925,1,0,2,<ios><swift>,27031733,0.4433934059
+FP?,29313022,2015-03-28 02:33:10,0,34,0,12,0,<ios><swift>,NULL,0.4433934059
+Basic Usage (printing optional),26491089,2014-10-21 15:59:54,1,355,1,12,0,<ios><xcode><swift><xcode6>,26491373,0.4417948437
+Found nil while unwrapping,29214748,2015-03-23 15:58:24,0,514,1,5,0,<ios><swift><button><uicollectionview><cell>,29215581,0.4417948437
+Found nil while unwrapping,29223886,2015-03-24 02:16:19,0,73,1,0,1,<swift>,NULL,0.4417948437
+Found nil while unwrapping,27488351,2014-12-15 16:14:50,0,155,1,4,0,<ios><uitableview><swift>,27488435,0.4415687403
+FP?,30406433,2015-05-22 21:56:52,2,115,1,4,0,<swift><optional>,30406516,0.4406312371
+Found nil while unwrapping,25226523,2014-08-10 07:36:23,0,387,1,0,0,<swift><parse.com>,25234277,0.4397520938
+Found nil while unwrapping,31708059,2015-07-29 18:10:43,0,33,1,0,0,<swift>,NULL,0.4397520938
+Found nil while unwrapping,31814145,2015-08-04 16:06:14,1,65,1,4,0,<ios><objective-c><iphone><swift><core-audio>,NULL,0.4397520938
+Errors,25155695,2014-08-06 08:34:59,7,3489,1,2,2,<swift>,25155734,0.437585675
+Found nil while unwrapping,30691942,2015-06-07 09:24:17,0,66,3,0,0,<ios><swift>,NULL,0.437585675
+Found nil while unwrapping,27336953,2014-12-06 21:48:42,0,57,1,1,0,<swift><parse.com><xcode6><pfobject>,NULL,0.4375607455
+Found nil while unwrapping,27917056,2015-01-13 07:37:45,-1,1926,3,3,0,<ios><swift><null>,27917651,0.4375607455
+Basic Usage,32842255,2015-09-29 11:03:48,1,73,2,1,0,<ios><swift><swift2><optional><optional-variables>,NULL,0.4375607455
+Found nil while unwrapping,33022202,2015-10-08 17:20:28,0,14,1,1,0,<swift><delegates><share><optional>,NULL,0.4361219128
+Concept,30807867,2015-06-12 16:22:28,2,72,1,0,0,<ios><swift>,30807948,0.4357364841
+Found nil while unwrapping,29250923,2015-03-25 08:41:16,1,323,2,0,0,<ios><iphone><swift>,NULL,0.4345277321
+Found nil while unwrapping,32725428,2015-09-22 19:37:45,-1,31,1,3,0,<ios><swift>,NULL,0.4342107476
+Basic Usage,24061039,2014-06-05 13:05:11,3,1893,2,0,4,<swift><forced-unwrapping>,24061401,0.4338177997
+FP?,29143855,2015-03-19 11:51:57,0,62,1,9,0,<swift><crash><release>,29226633,0.4326623065
+Found nil while unwrapping,31563630,2015-07-22 12:49:09,1,31,1,0,0,<swift><admob><fatal-error>,31566426,0.4326623065
+Multiple unwrapping,28171075,2015-01-27 12:56:21,1,130,4,4,0,<swift><if-statement><optional>,28171349,0.4317810189
+Basic Usage,29932361,2015-04-29 00:36:26,12,249,3,2,2,<ios><swift><optional>,NULL,0.4304499717
+Basic Usage (printing optional),32445359,2015-09-07 20:03:24,1,51,1,5,0,<ios><string><swift>,NULL,0.4304499717
+Found nil while unwrapping,29903593,2015-04-27 18:43:23,0,56,1,4,0,<xcode><swift><ads>,NULL,0.4299131034
+Found nil while unwrapping,28810945,2015-03-02 13:26:40,1,107,2,2,0,<ios><swift>,28811042,0.4296148922
+Found nil while unwrapping,29829218,2015-04-23 16:22:13,0,162,1,3,0,<ios><xcode><swift><nsfilemanager>,29831671,0.4275428187

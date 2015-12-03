@@ -1,0 +1,54 @@
+Interview Script
+
+(1) Interviewee Background
+
+  - How long have you been working as software developer?
+  - How many/Which programming languages have you used in professional software projects?
+  - Do you have professional experience with Objective-c? If so, when did you start using it?
+  - When did you start using Swift? 
+  - How familiar are with Swift? (Not that familiar, familiar, strong familiar with)
+  - Are you using Swift 1, 2 or both?
+    
+(2) Language Adoption
+    - What motivated you to learn Swift?
+    - What made swift easy/difficult to learn?
+	- What are the data sources you use to get updated with Swift? (understand/study/learn)
+    * If the interviewee knows objective-c *
+	- Did objective-c help to ease the learning? How/Why?
+ 
+
+(3) General Problems
+    - What are the most common problems that face when using Swift?
+	* if the problem can be solved!!!*
+    - How could those problems be solved?
+    
+(4) Specific problems (Optional Usage and Error Handling)
+
+    *Explain briefly the concept of Optional* 
+    - Are you familiar with the idea of Optionals?
+    - Did you ever use Optionals in your projects?
+    - If yes, did you find any difficulties/problems about the usage?
+    - Do you see any advantages about its usage?
+    
+>> So, our last questions are about Error Handling...
+	
+    - Are you familiar with the concept of Error Handling?
+    
+	* if the interviewee used Swift 1.0* 
+    - Swift 1.0 doesn't support error handling, nor does it support catching them. Did you miss EH on Swift 1.0?
+        - If yes, what workarounds did you use to handle exceptional behavior?
+    - Swift 2.0 adds concept of Error Handling. Do you think this is an important update?
+    
+	* if the interviewee used Swift 2.0* 
+    - Have you used it in Swift 2.0? How/Why?
+    
+	* if the interviewee used both*
+	- Did you refactor your old code to use EH? Do you plan to do this refactor?
+	- If so, What were the challenges in doing so?
+
+We would like to thank you again. 
+
+We plan to publish this interview as a part of our research and if would like to receive a copy of the paper we would be glad to share with you. 
+
+Do you have any questions or comments?!
+
