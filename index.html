@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<title>Energy Aware Mining</title>
+
+<xmp theme="united" style="display:none;">
+
 # SANER ERA TRACK Submission
 
 In this webpage you will find all required steps to reproduce the findings of our study.
@@ -100,10 +106,10 @@ FROM
 	Questions q, Questiontopics t
 WHERE
 	t.id_question = q.id_question AND
-	q.processedBody like ‘% option %’ AND
-	q.bodyText not like ‘% option %’ AND
-	q.bodyText not like ‘%options%’ AND
-	q.titleText not like ‘% option %’ AND
+	q.processedBody like '% option %' AND
+	q.bodyText not like '% option %' AND
+	q.bodyText not like '%options%' AND
+	q.titleText not like '% option %' AND
 	t.id_topic = 12
 	order by t.value desc
 ```
@@ -477,3 +483,10 @@ question|score|views|answers|comments|favorites|tags|value
 29829218|0|162|1|3|0|ios, xcode, swift, nsfilemanager|0.4275428187
 
 ## List of Error Handling questions analyzed
+
+
+
+</xmp>
+
+<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
+</html>
