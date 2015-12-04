@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Energy Aware Mining</title>
+<title>An Study on the Usage of the Swift Programming Language</title>
 
 <xmp theme="united" style="display:none;">
 
@@ -54,9 +54,25 @@ The interview script can be found [here](interview-script.txt).
 
 ## Gathering StackOverflow data
 
-We gather StackOverflow data using the StackExchange database. The following steps are required to create our database of questions.
+We gather StackOverflow data using the [StackExchange](https://data.stackexchange.com/stackoverflow) database. For simplifying purposes [here](db-scripts.zip) is the list of scripts that duplicates our dataset in a MySQL database.
+We used the MySQL Workbench 6.3 CE. The scripts have to be run in the following order:
+
+Order | Script
+------|-------
+1 | swift-sql-create
+2 | swift-users
+3 | swift-topics-hyper
+4 | swift-questions
+5 | swift-answers
+6 | swift-questions-topics-hyper
+7 | swift-comments1
+8 | swift-comments2
+9 | swift-named_topics-hyper
+10 | swift-update_named_topics-hyper
 
 ## List of LDA Topics (with words)
+
+The result of the LDA processing is a list od 25 topics. Next we provide them in full details.
 
 Topic | Share | Questions | Most Relevant | LDA Words
 ------|-----------|-----------|---------------|----------
